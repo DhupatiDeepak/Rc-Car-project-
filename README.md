@@ -1,2 +1,6 @@
-# Rc-Car-project-
-This project entails constructing a Bluetooth-controlled RC car using an Arduino Uno R3 and a motor driver. It utilizes a Bluetooth module for wireless communication with external devices like smartphones or computers. Commands sent over Bluetooth dictate the car's movements, including forward, backward, left turn, right turn, and stop.
+👋 Hi, I’m @DhupatiDeepak 
+👀 I’m interested in python development 
+🌱 I’m currently learning Python Fullstack 
+💞️ I’m looking to collaborate on machine learning projects 
+📫 How to reach me: @dhupatideepak@gmail.com ,https://www.linkedin.com/in/deepak-dhupati-771622269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+⚡ Fun fact: I love playing cricket and travelling!
